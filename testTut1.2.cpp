@@ -4,7 +4,7 @@
 
 int main () {
     
-    std::cout << "Hello Github!\n";
+    std::cout << "Hello Github! I have successfully cloned a repo!\n";
 
     return 0;
 }
